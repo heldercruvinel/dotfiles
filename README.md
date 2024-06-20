@@ -1,2 +1,2 @@
-# My Config Files
+# My Dot Files
 Repository to store all my config files
